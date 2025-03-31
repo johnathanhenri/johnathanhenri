@@ -53,7 +53,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 </picture>
 
 ### 📊 Estatísticas
-
+<div aligfn = "left">
 <p>
   <img 
     align="left" 
@@ -71,3 +71,4 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   />
 
 </p>
+</div>
