@@ -58,8 +58,8 @@ Me chamo Jonhnathan Henrique, tenho 20 anos e sou natural do Rio Grande do Sul. 
 
 <img 
     align="left" 
-    alt="C" 
-    title="C"
+    alt="Git" 
+    title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg](https://camo.githubusercontent.com/e3a44d7bf7ce074f5efd452fd541f80aa31a4bc01dcf9b73a0f85c7c48462f50/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f632f632d6f726967696e616c2e737667)" 
